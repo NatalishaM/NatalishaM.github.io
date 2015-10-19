@@ -11,9 +11,11 @@ h2 {text-align: center;
 }
 div.head {text-align: center;
 	margin: 0 auto;}
-img.foto {margin: 15px 5px;
+	.head img{margin: 15px 5px;
 	width: 150px;
-	height: 150px;}
+	height: 150px;
+	border-radius: 10px;
+	}
 p {	margin: 15px;
 	font-size: 18px;
 	line-height: 28px;}
