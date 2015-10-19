@@ -1,37 +1,21 @@
-body {
-	background: #eeeeee;
-}
-div.Iam {
-	padding: 50px;
+body {background: #eeeeee;}
+div.Iam {	padding: 50px;
 	width: 413px;   
 	margin: auto; 
 	background: #ffffff;
 	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
-	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
-}
-h2 {
-	margin: 0 auto;
-	text-align: center;
-}
-div.head {
-	text-align: center;
-	margin: 0 auto;
-}
-img.foto {
-	margin: 15px 5px;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);}
+h2 {margin: 0 auto;
+	text-align: center;}
+div.head {text-align: center;
+	margin: 0 auto;}
+img.foto {margin: 15px 5px;
 	width: 150px;
-	height: 150px;
-}
-p {
-	margin: 15px;
+	height: 150px;}
+p {	margin: 15px;
 	font-size: 18px;
-	line-height: 28px;
-}
-hr {
-	width:  100%;
-}
-ul > li {
-	font-size: 18px;
-	line-height: 28px;
-}
+	line-height: 28px;}
+hr {width:  100%;}
+ul, li {font-size: 18px;
+	line-height: 28px;}
