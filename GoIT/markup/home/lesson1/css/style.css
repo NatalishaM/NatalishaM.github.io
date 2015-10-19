@@ -3,10 +3,9 @@ body {
 }
 div.Iam {
 	padding: 50px;
-	width: 413px;   /* = 513 - 50*2 */
-	margin: auto; /* РІС‹СЂР°РІРЅРёРІР°РЅРёРµ СЃР»РѕСЏ РїРѕ С†РµРЅС‚СЂСѓ */
+	width: 413px;   
+	margin: auto; 
 	background: #ffffff;
-	/* СЃРіРµРЅРµСЂРёСЂРѕРІР°РЅРЅС‹Р№ box-shadow */ 
 	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
